@@ -20,7 +20,7 @@ An AI-powered interactive mock interview platform built with **Streamlit**, **Go
 
 1. **Clone the repo**
    
-   git clone https://github.com/15Kushal2004/AI-Interview-Simulator.git
+   git [clone https://github.com/15Kushal2004/AI-Interview-Simulator.git](https://github.com/15Kushal2004/AI-Interview/blob/main/app.py)
    cd AI-Interview-Simulator
    
 
